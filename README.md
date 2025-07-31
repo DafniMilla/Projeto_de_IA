@@ -40,7 +40,7 @@ melanoma-detector/
 ## 🚀 Como usar
 
 1. Clone o repositório:
-   ``` git clone https://github.com/seu-usuario/melanoma-detector.git```
+   ```https://github.com/DafniMilla/melanoma-detector```
    
 3. Acesse a pasta:   ```cd melanoma-detector```
    
